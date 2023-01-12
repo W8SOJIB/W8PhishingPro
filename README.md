@@ -20,10 +20,7 @@
 ### [√] Description :
 
 ***Ultimate phishing tool in python. Includes popular websites like facebook, twitter, instagram, github, reddit, gmail and many others.***
-
-### [*]Announcent
-
-This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhisher). Further bug fixes and feature addition will be available in that
+t
 
 
 ### [+] Installation
@@ -41,10 +38,10 @@ This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhish
 
 ##### Clone this repository
 
- - ```git clone https://github.com/KasRoudra/PyPhisher```
+ - ```git clone https://github.com/W8SOJIB/W8PhishingPro```
 
 ##### Enter the directory
- - ```cd PyPhisher```
+ - ```cd W8PhishingPro```
 
 ##### Install all modules
  - ```pip3 install -r files/requirements.txt```
@@ -52,9 +49,6 @@ This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhish
 ##### Run the tool
  - ```python3 pyphisher.py```
 
-#### Or, directly run
-```
-wget https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/pyphisher.py && python3 pyphisher.py
 
 ```
 
@@ -127,10 +121,6 @@ options:
  - Portable file (Can be run from any directory)
  - Get IP Address and many other details along with login credentials
 
-#### Relevant Tools by Me
- - [CamHacker](https://github.com/KasRoudra/CamHacker) for image phishing
- - [VidPhisher](https://github.com/KasRoudra/VidPhisher) for video phishing
-
 
 ### Requirements
 
@@ -164,13 +154,6 @@ If not found, php and python modoules will be installed on first run
 <h1 align="center">Example</h1>
 
 ![PyPhisher](https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/files/pyphisher.gif)
-
-## Video Tutorial
-<a href="https://rebrand.ly/pyphishervideo">PyPhisher in Termux</a>
-<br/>
-<a href="https://youtu.be/xIEuJkmJ8F0">PyPhisher in Kali Linux by InfoSecPat</a>
-<br/>
-<a href="https://youtu.be/ueF6fNHD8MM">PyPhisher in Kali Linux by Sathvik</a>
 
 ## Whats new in 1.8?
  - *Mailing*
@@ -214,11 +197,11 @@ Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zp
 
 ## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
+- [![Github](https://img.shields.io/badge/Github-W8SOJIB-green?style=for-the-badge&logo=github)](https://github.com/W8SOJIB)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-w8sojib-green?style=for-the-badge&logo=gmail)](mailto:w8sojib@gmail.com)
 
-- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-green?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
+- [![Facebook](https://img.shields.io/badge/Facebook-W8Vai-green?style=for-the-badge&logo=facebook)](https://facebook.com/W8Vai)
 
-- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-green?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
+- [![Messenger](https://img.shields.io/badge/Messenger-W8Vai-green?style=for-the-badge&logo=messenger)](https://m.me/W8Vai)
 
