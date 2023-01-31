@@ -39,6 +39,8 @@ t
 ##### Termux All Pkg Installer
 
 ```
+termux-setup-storage
+
 https://github.com/W8SOJIB/W8TermuxPkgInstaller
 
 pip3 install pyphisher 
