@@ -41,7 +41,15 @@ t
 ```
 termux-setup-storage
 
-https://github.com/W8SOJIB/W8TermuxPkgInstaller
+apt-get update -y
+apt-get upgrade -y
+pkg install git -y
+
+git clone https://github.com/W8SOJIB/W8TermuxPkgInstaller
+ls
+cd W8TermuxPkgInstaller
+ls
+./install.sh
 
 pip3 install pyphisher 
 
