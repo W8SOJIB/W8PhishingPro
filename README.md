@@ -36,20 +36,20 @@ t
  - For Termux
     - ```pkg install git python3 php openssh -y```
 
-##### Clone this repository
+##### Termux All Pkg Installer
 
- - ```git clone https://github.com/W8SOJIB/W8PhishingPro```
+```
+https://github.com/W8SOJIB/W8TermuxPkgInstaller
 
-##### Enter the directory
- - ```cd W8PhishingPro```
+pip3 install pyphisher 
 
-##### Install all modules
- - ```pip3 install -r files/requirements.txt```
+git clone https://github.com/W8SOJIB/W8PhishingPro
 
-##### Run the tool
- - ```python3 pyphisher.py```
+cd W8PhishingPro
 
+pip3 install -r files/requirements.txt
 
+python3 pyphisher.py
 ```
 
 ### Pip
